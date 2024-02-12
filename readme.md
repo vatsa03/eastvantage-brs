@@ -1,7 +1,7 @@
 This app is continerized and pushed to docker hub.
 The image can be found here: https://hub.docker.com/r/kvatsa/eastvantage
 
-Prerequisites:
+## Prerequisites:
 
 ```docker```
 
@@ -11,8 +11,9 @@ To start the app run the following commands:
 docker pull kvatsa/eastvantage
 docker run -p 8000:8000 kvatsa/eastvantage
 ```
+Then navigate to localhost:8000/docs to interact with the apis.
 
-Theoretical Question answers:
+## **Theoretical Question answers:**
 - Question 1: Explain how FastAPI handles asynchronous requests and its
 benefits over synchronous code in Python.
 
