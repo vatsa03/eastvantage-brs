@@ -1,3 +1,6 @@
+## Book review system
+Build a RESTful API using FastAPI for a hypothetical book review system.
+
 This app is continerized and pushed to docker hub.
 The image can be found here: https://hub.docker.com/r/kvatsa/eastvantage
 
